@@ -1,0 +1,25 @@
+.button1{
+
+
+box-shadow:-2px -2px 2px red;
+padding:20px;
+margin:200px;
+font-size: 20px;
+font-weight: 600;
+
+color:#353839;
+margin-right: 50px;
+}
+
+.button2{
+
+
+display: none;
+
+
+}
+
+body{
+
+    background-color: powderblue;
+}
